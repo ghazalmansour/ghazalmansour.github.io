@@ -1,0 +1,30 @@
+body {
+    background: url(https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80);
+    background-size: cover;
+    background-position: center;
+    color: rgb(107, 28, 87);
+   
+  }
+ 
+h1 {
+      text-align: center;
+      color: rgb(172, 27, 128);
+      font-size: 75px;
+     font-style: initial; 
+  }
+main {
+    text-align: center;
+}
+img {
+   margin: 0px 0px 60px;
+    border-radius: 20px;
+  }
+p {
+    margin: 200px 0px 0px;
+    font-size: 22px;
+    color:  rgb(252, 252, 252)
+  }
+  footer{
+    text-align: center;
+  }
+
